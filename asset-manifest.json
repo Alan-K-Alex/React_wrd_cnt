@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Alan-K-Alex/React_wrd_cnt/static/css/main.073c9b0a.css",
-    "main.js": "/Alan-K-Alex/React_wrd_cnt/static/js/main.2cb209d3.js",
-    "static/js/787.ec404562.chunk.js": "/Alan-K-Alex/React_wrd_cnt/static/js/787.ec404562.chunk.js",
-    "static/media/logo.svg": "/Alan-K-Alex/React_wrd_cnt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Alan-K-Alex/React_wrd_cnt/index.html",
-    "main.073c9b0a.css.map": "/Alan-K-Alex/React_wrd_cnt/static/css/main.073c9b0a.css.map",
-    "main.2cb209d3.js.map": "/Alan-K-Alex/React_wrd_cnt/static/js/main.2cb209d3.js.map",
-    "787.ec404562.chunk.js.map": "/Alan-K-Alex/React_wrd_cnt/static/js/787.ec404562.chunk.js.map"
+    "main.css": "/React_wrd_cnt/static/css/main.073c9b0a.css",
+    "main.js": "/React_wrd_cnt/static/js/main.3d62312f.js",
+    "static/js/787.ec404562.chunk.js": "/React_wrd_cnt/static/js/787.ec404562.chunk.js",
+    "static/media/logo.svg": "/React_wrd_cnt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_wrd_cnt/index.html",
+    "main.073c9b0a.css.map": "/React_wrd_cnt/static/css/main.073c9b0a.css.map",
+    "main.3d62312f.js.map": "/React_wrd_cnt/static/js/main.3d62312f.js.map",
+    "787.ec404562.chunk.js.map": "/React_wrd_cnt/static/js/787.ec404562.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2cb209d3.js"
+    "static/js/main.3d62312f.js"
   ]
 }
